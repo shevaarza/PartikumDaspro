@@ -7,7 +7,8 @@ public class test {
         System.out.println("Namaku sheva arzadina hizbullah kurniawan , dengan NIM ( 254107020173) , Hallo semua salam kenal ");
 
 
-    }
+        System.out.println("Nama aku nana aku suka makan pizza");
 
+    }
 
 }
