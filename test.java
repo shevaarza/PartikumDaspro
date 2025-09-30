@@ -8,6 +8,7 @@ public class test {
         System.out.println(("Hi, ini baris kode pertama yang dimodifikasi user 2"));
         System.out.println("User 2 menambahkan baris baru");
 
+        System.out.println("Namaku Bagas Satrio Wicaksono, dengan NIM ( 254107020186) , Hallo semua salam kenal ");
     }
 
 
